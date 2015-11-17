@@ -1,0 +1,10 @@
+Chapter 9 Minicase 3
+Eric Gjerde
+Ryan Feeney
+King Jerome
+
+We are aware that mistakes can happen, so we created back buttons which return the user to the main menu screen.
+In subsequent screens, we could include a main menu button that goes all the way back in addition to back buttons returning
+the user to the previous screen.
+We kept the interface consistent in terms of option order with create, change, delete buttons in that order and remained
+consistent with the original design.
